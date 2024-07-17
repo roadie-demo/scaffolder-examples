@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: scaffolder-examples
+  annotations:
+    github.com/project-slug: roadie-demo/scaffolder-examples
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
